@@ -1,0 +1,9 @@
+#!/bin/bash
+exe="gnuplot"
+if [ -x "$(command -v $exe)" ]
+then
+  echo "1"
+else
+  echo "0"
+fi
+

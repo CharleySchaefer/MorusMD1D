@@ -22,7 +22,7 @@
 While melts or semi-dilute solutions of polymers involve many interacting polymer chains, their linear- and non-linear viscoelastic rheology can often be quantitatively understood by modelling a single chain that undergoes curvilinear *Rouse diffusion* in an effective medium, i.e., in an "*entanglement tube"*.   
 This software is specifically designed to simulate the 1D diffusion of polymers, and is in particular aimed at  
 * **Development of new polymer-physics theory**: Temporary crosslinks impact contour-length fluctuations in the linear viscoelastic regime and chain extensional and retraction in the non-linear regime; new quantitative theories that describe these phenomena can be tested using these simulations.  
-* **Reproducibility and transparancy**: This repository contains demos/tutorials to reproduce published results:   
+* **Reproducibility and transparency**: This repository contains demos/tutorials to reproduce published results:   
   * Rubinstein & Colby - JCP 89, 5291 (1988), https://doi.org/10.1063/1.455620  
   * Leibler, Rubinstein and Colby, Macromolecules (1991)  (https://pubs.acs.org/doi/10.1021/ma0200219)  
   * Likhtman & McLeish, Macromolecules (2002)  (https://pubs.acs.org/doi/10.1021/ma0200219)  
